@@ -1,0 +1,8 @@
+{
+  "name": "NodeRefreshToken",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:wenealves10/NodeRefreshToken.git",
+  "author": "Wene Alves de Oliveira <weneplay5@gmail.com>",
+  "license": "MIT"
+}
